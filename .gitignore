@@ -1,0 +1,9 @@
+# Python bytecode from the scripts in tools/
+__pycache__/
+*.pyc
+
+# Playwright MCP scratch output from local testing
+.playwright-mcp/
+
+# macOS Finder metadata
+.DS_Store
